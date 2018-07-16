@@ -1,0 +1,3 @@
+apiKey=
+yarnUri=
+chatId=
